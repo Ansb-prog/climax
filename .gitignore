@@ -1,0 +1,5 @@
+private/.env.local
+.venv/
+data/cache/
+__pycache__/
+tests/shots/
